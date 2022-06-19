@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Héctor Argüello (@harguello92)
-- 👀 I’m interested in a lot of things but I spend most of my time for research on front end technologies.
-- 🌱 I’m currently learning Micro-Front End architectures, Design systems monorepo, and several trending technologies.
+- 👀 Technology, travel and sports enthusiast
+- 🌱 I’m currently focused on Front End microservices architectures, design systems with monorepo, and several trending technologies.
 - 📫 You can contact me by hectorargue@gmail.com or https://twitter.com/harguello92
